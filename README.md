@@ -9,20 +9,20 @@ Digit recognition with a Back-Propagation Network
 2. Wait for about 2 minutes to get results!
 
 ## Demo ##
-Neural Network architecture
+* Neural Network architecture
 ![alt tag](https://i.imgur.com/Dm3baPT.png)
 
-Convergence results
+* Convergence results
 ![alt tag](https://i.imgur.com/9CtArPU.png)
 
-Different number training accuracy
+* Different number training accuracy
 ![alt tag](https://i.imgur.com/Y2Xcw9A.png)
 
-Training Accuracy  
+* Training Accuracy  
 ![alt tag](https://i.imgur.com/nKPYbj7.png)
 
-Different number testing accuracy
+* Different number testing accuracy
 ![alt tag](https://i.imgur.com/WmnmczD.png)
 
-Testing Accuracy  
+* Testing Accuracy  
 ![alt tag](https://i.imgur.com/ybawbqH.png)
