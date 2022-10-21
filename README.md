@@ -16,7 +16,7 @@ Convergence results
 ![alt tag](https://i.imgur.com/9CtArPU.png)
 
 Different number training accuracy
-![alt tag](https://i.imgur.com/WmnmczD.png)
+![alt tag](https://i.imgur.com/Y2Xcw9A.png)
 
 Training Accuracy  
 ![alt tag](https://i.imgur.com/nKPYbj7.png)
